@@ -120,4 +120,4 @@ Network Range Scanned: 10.30.67.0/24
 Date: October 2025
 
 
-Want me to also generate the `scan_results.txt` template (empty with headers) or a sample `ipconfig_screensho
+
